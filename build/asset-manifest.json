@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5134d316.css",
+    "main.js": "/static/js/main.9640943d.js",
+    "static/js/787.aadca95f.chunk.js": "/static/js/787.aadca95f.chunk.js",
+    "static/media/circular-std-medium-500.woff": "/static/media/circular-std-medium-500.a5570134bdf2971f08b1.woff",
+    "static/media/CircularStd-Book.woff": "/static/media/CircularStd-Book.b9b1abe339ba6639afff.woff",
+    "static/media/circular-std-medium-500.woff2": "/static/media/circular-std-medium-500.1950f6b2808d28e1fcd8.woff2",
+    "static/media/CircularStd-Book.woff2": "/static/media/CircularStd-Book.da91211bb1fd4f1d09d8.woff2",
+    "static/media/mastercard.svg": "/static/media/mastercard.0514f05b5f006480be54a495c6c493a9.svg",
+    "static/media/logo.svg": "/static/media/logo.e41692794369f1be1b4bfafdea764070.svg",
+    "index.html": "/index.html",
+    "main.5134d316.css.map": "/static/css/main.5134d316.css.map",
+    "main.9640943d.js.map": "/static/js/main.9640943d.js.map",
+    "787.aadca95f.chunk.js.map": "/static/js/787.aadca95f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5134d316.css",
+    "static/js/main.9640943d.js"
+  ]
+}
